@@ -15,6 +15,7 @@ Maintainers (CyanogenMod 10):
 * __Google Nexus 7:__ burnsra, fattire, nemith (GSM)
 * __Google Nexus 10:__ atinm, dalingrin, kornyone
 * __HTC Evo 4G LTE:__ kushdeck, toastcfh
+* __HTC Evo V 4G:__ g60madman, Chairshot215
 * __HTC One S:__ intervigil, xkonni
 * __HTC One XL:__ h8rift, intervigil
 * __LG Optimus LTE (P930) / LG Nitro HD {P935):__ arcee
