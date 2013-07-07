@@ -16,7 +16,6 @@ Maintainers (CyanogenMod 10.1):
 * __Google Nexus 10:__ atinm, dalingrin, kornyone
 * __HTC Droid Incredible 4G LTE:__ intervigil, mdmower
 * __HTC Evo 4G LTE:__ kushdeck, toastcfh
-* __HTC Evo V 4G:__ g60madman, Chairshot215
 * __HTC One (GSM):__ codeworkx, h8rift
 * __HTC One (Sprint):__ kushdeck, toastcfh
 * __HTC One S:__ intervigil, xkonni
