@@ -138,6 +138,7 @@ PRODUCT_PACKAGES += \
 
 # Optional CM packages
 PRODUCT_PACKAGES += \
+    VoicePlus \
     VideoEditor \
     VoiceDialer \
     SoundRecorder \
